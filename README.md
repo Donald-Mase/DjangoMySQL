@@ -1,2 +1,2 @@
-# DjangoMySQL
-Connecting Django and MySQL
+# PyMySQL
+Data Entry and Visualization
